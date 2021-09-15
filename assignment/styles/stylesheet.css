@@ -1,0 +1,30 @@
+
+header {
+  background-color: blue;
+  /* set background color of header as 'blue' */
+  color: white;
+  /* set font color to 'white' */
+  text-align: center;
+  /* centered all text in the header */
+  font-size: 75%;
+  /* adjusted the font size of the header to 75% set values just for fun */
+}
+
+body{
+  margin: 0;
+  /* set margin in body to 0 to eliminate all white around edges of page */
+  background-image: url("/Users/jbirkeland/prime-pw-week-5-assignment-part-2/assignment/record.png");
+  background-repeat: repeat;
+}
+
+main {
+  background-color: lightgray;
+  /* set background of main to 'lightgray' */
+  padding: 1em;
+  /* set padding to equal current font size of main */
+}
+
+<style>
+
+
+</style>
